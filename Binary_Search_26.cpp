@@ -19,7 +19,7 @@ int binarySearch(int arr[], int val, int start, int end)
 
     return -1;
 }
-
+//hemlo mojj kardi bete
 int main()
 {
 
